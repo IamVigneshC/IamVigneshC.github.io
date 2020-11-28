@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+layout: sidebar
 title: Hello, I'm Vignesh
 logo: /about/3.jpg
 
