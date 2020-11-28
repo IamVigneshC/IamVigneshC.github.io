@@ -8,7 +8,7 @@ _Developers are best at development, designers specializes system and UX design,
 **A Business Analyst, Product Manager & Techie**
 
 
-💻 Some of my knowledge shares on Digital Trends in my **Professional Blog :** [https://iamvigneshc-mydigitalworld.blogspot.com/](https://iamvigneshc-mydigitalworld.blogspot.com/)
+💻 Knowledge shares on Digital Trends in my **Professional Blog :** [https://iamvigneshc-mydigitalworld.blogspot.com/](https://iamvigneshc-mydigitalworld.blogspot.com/)
 
 
 📦 My contribution in **GitHub - Projects and Repositories :** [https://github.com/IamVigneshC](https://github.com/IamVigneshC)
