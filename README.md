@@ -10,12 +10,13 @@ _I intend to improve myself everyday and finds balance between my personal life,
 **A Business Analyst, Product Manager & Techie**
 
 
-💻 Take a look at some of my knowledge shares on Digital Trends in my **[Professional Blog]** (https://iamvigneshc-mydigitalworld.blogspot.com/)
-
-📦 My contribution in **[GitHub - Projects and Repositories]** (https://github.com/IamVigneshC)
+💻 Take a look at some of my knowledge shares on Digital Trends in my **Professional Blog :** https://iamvigneshc-mydigitalworld.blogspot.com/
 
 
-**LinkedIn Profile :** (https://www.linkedin.com/in/seevignesh/)
+📦 My contribution in **GitHub - Projects and Repositories :** https://github.com/IamVigneshC
+
+
+**LinkedIn Profile :** https://www.linkedin.com/in/seevignesh/
 
 
 ## Career Timeline
