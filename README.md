@@ -10,5 +10,5 @@ _Developers are best at development, designers specializes system and UX design,
 
 🚀 My contribution in **GitHub - Projects and Repositories :** [https://github.com/IamVigneshC](https://github.com/IamVigneshC)
 
-👤 **My LinkedIn Profile :** [https://www.linkedin.com/in/seevignesh/](https://github.com/IamVigneshC)
+👤 **Linkedin Profile :** [https://www.linkedin.com/in/seevignesh/](https://github.com/IamVigneshC)
 
