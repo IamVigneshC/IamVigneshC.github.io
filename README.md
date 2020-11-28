@@ -7,14 +7,13 @@ _Developers are best at development, designers specializes system and UX design,
 
 **A Business Analyst, Product Manager & Techie**
 
-
 💻 Knowledge shares on Digital Trends in my **Professional Blog :** [https://iamvigneshc-mydigitalworld.blogspot.com/](https://iamvigneshc-mydigitalworld.blogspot.com/)
 
 
-📦 My contribution in **GitHub - Projects and Repositories :** [https://github.com/IamVigneshC](https://github.com/IamVigneshC)
+🐼 My contribution in **GitHub - Projects and Repositories :** [https://github.com/IamVigneshC](https://github.com/IamVigneshC)
 
 
-**My LinkedIn Profile :** [https://www.linkedin.com/in/seevignesh/](https://github.com/IamVigneshC)
+👤 **My LinkedIn Profile :** [https://www.linkedin.com/in/seevignesh/](https://github.com/IamVigneshC)
 
 
 ## Career Timeline
