@@ -14,7 +14,7 @@ _Developers are best at development, designers specializes system and UX design,
 
 ## Career Timeline
 
-![Image of Career](https://github.com/IamVigneshC/IamVigneshC.github.io/blob/main/about/CT.png)
+![Image of Career](https://github.com/IamVigneshC/IamVigneshC.github.io/blob/main/about/CTI.png)
 
 
 
