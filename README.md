@@ -1,16 +1,27 @@
 ## Welcome to my profile 👋
 
-_I intend to improve myself everyday. I don't compete, I overcome! I don't settle for ordinary, I strive to be the best! I don't thrive, I excel!!_
+_Developers are best at development, designers specializes system and UX design, business executives are SMEs in their area, I am 'The Enabler' for these communities who work closely with them to create value out of their job._ 
+
+_I intend to improve myself everyday and finds balance between my personal life, profession and passion. I don't compete, I overcome! My mindset is not to settle for ordinary, but strive to be the best! And don't thrive, but excel!!_
 
 
-### About Me 
+### Who Am I? 
 
-**A Business Analyst & Techie**
+**A Business Analyst, Product Manager & Techie**
 
 
-💻 **Professional Blog :** https://iamvigneshc-mydigitalworld.blogspot.com/
+💻 Take a look at some of my knowledge shares on Digital Trends in my **[Professional Blog]** (https://iamvigneshc-mydigitalworld.blogspot.com/)
 
-📦 **GitHub Portfolio :** https://github.com/IamVigneshC
+📦 My contribution in **[GitHub - Projects and Repositories]** (https://github.com/IamVigneshC)
 
-🤖 **LinkedIn Profile :** https://www.linkedin.com/in/seevignesh/
+
+**LinkedIn Profile :** (https://www.linkedin.com/in/seevignesh/)
+
+
+## Career Timeline
+
+
+![Image of Career](https://github.com/IamVigneshC/IamVigneshC.github.io/blob/main/about/Career.png)
+
+
 
