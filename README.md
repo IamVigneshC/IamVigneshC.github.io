@@ -13,16 +13,16 @@ _I intend to improve myself everyday and finds balance between my personal life,
 💻 Some of my knowledge shares on Digital Trends in my **Professional Blog :** [https://iamvigneshc-mydigitalworld.blogspot.com/](https://iamvigneshc-mydigitalworld.blogspot.com/)
 
 
-📦 My contribution in **GitHub - Projects and Repositories :** [https://github.com/IamVigneshC] (https://github.com/IamVigneshC)
+📦 My contribution in **GitHub - Projects and Repositories :** [https://github.com/IamVigneshC](https://github.com/IamVigneshC)
 
 
-**My LinkedIn Profile :** [https://www.linkedin.com/in/seevignesh/] (https://github.com/IamVigneshC)
+**My LinkedIn Profile :** [https://www.linkedin.com/in/seevignesh/](https://github.com/IamVigneshC)
 
 
 ## Career Timeline
 
 
-![Image of Career](https://github.com/IamVigneshC/IamVigneshC.github.io/blob/main/about/Career.png)
+![Image of Career](https://github.com/IamVigneshC/IamVigneshC.github.io/blob/main/about/CT.png)
 
 
 
