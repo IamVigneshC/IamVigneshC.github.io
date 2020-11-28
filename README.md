@@ -12,3 +12,12 @@ _Developers are best at development, designers specializes system and UX design,
 
 👤 **Linkedin Profile :** [https://www.linkedin.com/in/seevignesh/](https://github.com/IamVigneshC)
 
+* * *
+
+## Career
+
+| Employer                        | Designation/Role                            | Period           | 
+|:--------------------------------|:--------------------------------------------|:-----------------|
+| Cognizant Technology Solutions  | Consultant/Business Analyst/Product Manager | 2014 to Current  |
+| Tata Consultancy Services       | IT Analyst/Product Owner/System Analyst     | 2011 to 2014     |
+| Value Source Technologies       | Software Engineer/Functional Analyst        | 2008 to 2011     |
