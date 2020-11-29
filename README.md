@@ -58,3 +58,17 @@ _**A Business Analyst, Product Manager & Techie**_
 - Microsoft Certified Technology Specialist (MCTS 070-178 : MS Project 2010, Managing Projects)
 - IBM InfoSphere Master Data Management Server Technical Professional v1
 
+### Awards
+
+1. Consulting Excellence - CBC Healthcare, 2020 – Cognizant
+1. Consulting Excellence - CBC Healthcare, 2019 – Cognizant
+1. Consulting Excellence - CBC Healthcare, 2018 – Cognizant
+1. Best Growth Account - CBC Healthcare, 2020 – Cognizant
+1. Dream Team - CBC Healthcare, 2019 – Cognizant
+1. SPOT award - CBC Healthcare, 2017 – Cognizant
+1. Service Commitment, 2014 – TCS
+1. “Special Initiative, 2013” Healthcare Quality Utsav – TCS 
+1. "You were caught in the Act" - Exemplary performance award from Application Director (California, Kaiser Permanente) - TCS
+1. On The Spot Award, 2012 - TCS
+1. Young Star Award, 2009 - Value Source
+
