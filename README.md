@@ -34,4 +34,4 @@ _Developers are best at development, designers specializes system and UX design,
 
 ### Career Timeline
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://github.com/IamVigneshC/IamVigneshC.github.io/blob/main/about/CTI.png
