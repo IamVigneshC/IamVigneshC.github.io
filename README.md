@@ -4,7 +4,7 @@ _Developers are best at development, designers specializes system and UX design,
 
 ### Who Am I? 
 
-**A Business Analyst, Product Manager & Techie**
+_**A Business Analyst, Product Manager & Techie**_
 
 
 👤 **Linkedin Profile :** [https://www.linkedin.com/in/seevignesh/](https://github.com/IamVigneshC)
