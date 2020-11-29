@@ -17,10 +17,10 @@ _Developers are best at development, designers specializes system and UX design,
 
 ### Core Competencies
 
-| Requirement Management (Analysis, Elicitation, Documentation, Communication)                             | ⭐ ⭐ ⭐ ⭐ ⭐  |          
-| Product Management, Agile (Scrum), SDLC, DevOps                                                          | ⭐ ⭐ ⭐ ⭐ ⭐  |  
+| Requirement Management (Analysis, Elicitation, Documentation, Communication)            | ⭐ ⭐ ⭐ ⭐ ⭐  |          
+| Product Management, Agile (Scrum), SDLC, DevOps                                         | ⭐ ⭐ ⭐ ⭐ ⭐  |  
 | Data Warehousing, Profiling, Transformation, Enrichment, Data Visualization and Reporting, SQL querying  | ⭐ ⭐ ⭐ ⭐     |
-| Digital Systems and Technology, Cloud Computing, Automation, IOT (AWS, GCP)                              | ⭐ ⭐ ⭐       |                                 
+| Digital Systems and Technology, Cloud Computing, Automation, IOT (AWS, GCP)             | ⭐ ⭐ ⭐       |                                 
 
 
 ### Career Timeline
