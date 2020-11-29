@@ -6,8 +6,11 @@ _Developers are best at development, designers specializes system and UX design,
 
 _**A Business Analyst, Product Manager & Techie**_
 
+* * *
 
-👤 **Linkedin Profile :** [https://www.linkedin.com/in/seevignesh/](https://github.com/IamVigneshC)
+
+👤 **Linkedin Profile :** 
+[https://www.linkedin.com/in/seevignesh/](https://github.com/IamVigneshC)
 
 💻 Knowledge shares on Digital Trends in my **Professional Blog :** [https://iamvigneshc-mydigitalworld.blogspot.com/](https://iamvigneshc-mydigitalworld.blogspot.com/)
 
@@ -25,7 +28,7 @@ _**A Business Analyst, Product Manager & Techie**_
 
 ### Career Timeline
 
-| 2008 to 2011    ➤➤➤➤➤                | 2011 to 2014        ➤➤➤➤➤               | 2014 to Current                              | 
+| 2008 to 2011    ➤➤➤                  | 2011 to 2014        ➤➤➤                 | 2014 to Current                              | 
 |:-------------------------------------|:----------------------------------------|:---------------------------------------------|
 | Value Source Technologies            | Tata Consultancy Services               | Cognizant Technology Solutions               |
 | Software Engineer/Functional Analyst | IT Analyst/Product Owner/System Analyst | Consultant/Business Analyst/Product Manager  |
