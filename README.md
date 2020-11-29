@@ -15,13 +15,24 @@ _Developers are best at development, designers specializes system and UX design,
 
 * * *
 
-### Career
+### Core Competencies
 
-| Employer                          | Designation/Role                            | Period           | 
-|:----------------------------------|:--------------------------------------------|:-----------------|
-| Cognizant Technology Solutions    | Consultant/Business Analyst/Product Manager | 2014 to Current  |
-| Tata Consultancy Services         | IT Analyst/Product Owner/System Analyst     | 2011 to 2014     |
-| Value Source Technologies         | Software Engineer/Functional Analyst        | 2008 to 2011     |
+Requirement Management (Analysis, Elicitation, Documentation, Communication)                                ⭐⭐⭐⭐⭐
+
+Product Management, Agile (Scrum), SDLC, DevOps                                                             ⭐⭐⭐⭐⭐
+
+Data Warehousing, Profiling, Transformation, Enrichment, Data Visualization and Reporting, SQL querying     ⭐⭐⭐⭐
+
+Digital Systems and Technology, Cloud Computing, Automation, IOT (AWS, GCP)                                 ⭐⭐⭐
+
+
+### Career Timeline
+
+| 2008 to 2011                         | 2011 to 2014                            | 2014 to Current                              | 
+|:-------------------------------------|:----------------------------------------|:---------------------------------------------|
+| Value Source Technologies            | Tata Consultancy Services               | Cognizant Technology Solutions               |
+| Software Engineer/Functional Analyst | IT Analyst/Product Owner/System Analyst | Consultant/Business Analyst/Product Manager  |
+
 
 
 ### Education
@@ -32,6 +43,6 @@ _Developers are best at development, designers specializes system and UX design,
 | Bachelor of Engineering           | Computer Science and Engineering            | 2004 to 2008     |
 
 
-### Career Timeline
 
-https://github.com/IamVigneshC/IamVigneshC.github.io/blob/main/about/CTI.png
+
+
