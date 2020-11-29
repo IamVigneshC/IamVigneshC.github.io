@@ -42,6 +42,19 @@ _**A Business Analyst, Product Manager & Techie**_
 | Bachelor of Engineering           | Computer Science and Engineering |  Hindustan College of Engineering| 2004 to 2008     |
 
 
+### Certifications
 
-
+- Certified Associate Business Analyst (CABA)
+- Certified Scrum Master® (CSM)
+- Managed Healthcare Professional (MHP)
+- Professional, Health Insurance Advanced Studies (PHIAS) 
+- Professional, Academy for Healthcare Management (PAHM®)
+- Blueprint Certified Solution Designer
+- Blueprint Certified Power User
+- Six Sigma Certified Green Belt
+- ITIL Foundation 2011
+- PRINCE 2® Foundation 
+- Control Objectives for Information and Related Technology (COBIT® 5 Foundation) 
+- Microsoft Certified Technology Specialist (MCTS 070-178 : MS Project 2010, Managing Projects)
+- IBM InfoSphere Master Data Management Server Technical Professional v1
 
