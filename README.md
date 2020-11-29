@@ -36,7 +36,7 @@ _**A Business Analyst, Product Manager & Techie**_
 
 ### Education
 
-| Degree                            | Specialization                   |  Insitution                      | Period           | 
+| Degree                            | Specialization                   |  Institution                     | Period           | 
 |:----------------------------------|:---------------------------------|:---------------------------------|:-----------------|
 | Master of Business Administration | Technology Management            |  Anna University                 | 2010 to 2012     |
 | Bachelor of Engineering           | Computer Science and Engineering |  Hindustan College of Engineering| 2004 to 2008     |
