@@ -17,10 +17,10 @@ _**A Business Analyst, Product Manager & Techie**_
 
 ### Core Competencies
 
-| Requirement Management(Analysis,Elicitation,Documentation,Communication)| ⭐ ⭐ ⭐ ⭐ ⭐|          
-| Product Management,Agile(Scrum),SDLC,DevOps                             | ⭐ ⭐ ⭐ ⭐ ⭐|  
-| Data Warehousing,Profiling,Data Visualization and Reporting,SQL querying| ⭐ ⭐ ⭐ ⭐   |
-| Digital Systems and Technology,Cloud Computing,Automation,IOT(AWS, GCP) | ⭐ ⭐ ⭐     |                                 
+| Requirement Management(Analysis,Elicitation,Documentation,Communication)|⭐⭐⭐⭐⭐|          
+| Product Management,Agile(Scrum),SDLC,DevOps                             |⭐⭐⭐⭐⭐|  
+| Data Warehousing,Profiling,Data Visualization and Reporting,SQL querying|⭐⭐⭐⭐|
+| Digital Systems and Technology,Cloud Computing,Automation,IOT(AWS, GCP) |⭐⭐⭐  |                                 
 
 
 ### Career Timeline
