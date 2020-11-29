@@ -9,8 +9,7 @@ _**A Business Analyst, Product Manager & Techie**_
 * * *
 
 
-👤 **Linkedin Profile :** 
-[https://www.linkedin.com/in/seevignesh/](https://github.com/IamVigneshC)
+👤 [**Linkedin Profile :**](https://www.linkedin.com/in/seevignesh/](https://github.com/IamVigneshC)
 
 💻 Knowledge shares on Digital Trends in my **Professional Blog :** [https://iamvigneshc-mydigitalworld.blogspot.com/](https://iamvigneshc-mydigitalworld.blogspot.com/)
 
