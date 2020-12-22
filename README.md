@@ -4,7 +4,7 @@ _Developers are best at development, designers specializes system and UX design,
 
 ### Who Am I? 
 
-_**A Business Analyst, Product Manager & Techie**_
+_**A Business Analyst, Product Consultant & Techie**_
 
 * * *
 
