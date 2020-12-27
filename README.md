@@ -11,8 +11,8 @@ _**A Business Analyst, Product Consultant & Techie**_
 
 👤 Visit my [Linkedin Profile](https://www.linkedin.com/in/seevignesh/) to find more about me
 
-💻 Knowledge shares on Digital Trends in my [Professional Blog](https://iamvigneshc-mydigitalworld.blogspot.com/) and <br />
-⚫ [Medium Stories](https://iamvigneshc.medium.com)
+📝 Knowledge shares on Digital Trends in my [Professional Blog](https://iamvigneshc-mydigitalworld.blogspot.com/), <br />
+⚫ [Medium Stories](https://iamvigneshc.medium.com) and 💻 [Dev Community Posts](https://dev.to/iamvigneshc)
 
 🚀 My contribution in [GitHub - Projects and Repositories](https://github.com/IamVigneshC)
 
