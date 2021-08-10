@@ -1,6 +1,6 @@
 ## Welcome to my profile 👋
 
-_Developers are best at development, designers specializes system and UX design, business executives are SMEs in their area, I am 'The Enabler' for these communities who work closely with them cross functionally to create objective and subjective 'Value' out of their job._ 
+_Developers are best at coding, designers specializes system and UX design, business executives are SMEs in their area, I am 'The Enabler' for these communities who work closely with them cross functionally to create objective and subjective 'Value' out of their job._ 
 
 ### Who Am I? 
 
@@ -30,7 +30,7 @@ _**A Business Analyst, Product Consultant & Techie**_
 | 2008 to 2011                         |            2011 to 2014                 |              2014 to Current                 |
 |:-------------------------------------|:----------------------------------------|:---------------------------------------------|
 | Value Source Technologies            | Tata Consultancy Services               | Cognizant Technology Solutions               |
-| Software Engineer/Functional Analyst | IT Analyst/Product Owner/System Analyst | Consultant/Business Analyst/Product Manager  |
+| Software Engineer/Product Developer  | IT Analyst/Product Owner/Scrum Master   | Consultant/Business Analyst/Product Manager  |
 
 
 
@@ -61,6 +61,7 @@ _**A Business Analyst, Product Consultant & Techie**_
 
 ### Awards
 
+1. Always Striving, Never Settling - Cognizant Cheers
 1. Consulting Excellence - CBC Healthcare, 2020 – Cognizant
 1. Consulting Excellence - CBC Healthcare, 2019 – Cognizant
 1. Consulting Excellence - CBC Healthcare, 2018 – Cognizant
