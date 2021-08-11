@@ -33,7 +33,6 @@ _**A Business Analyst, Product Consultant & Techie**_
 | Software Engineer/Product Developer  | IT Analyst/Product Owner/Scrum Master   | Consultant/Business Analyst/Product Manager  |
 
 
-
 ### Education
 
 | Degree                            | Specialization                   |  Institution                     | Period           | 
