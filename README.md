@@ -4,7 +4,7 @@ _Developers are best at coding, designers specializes system and UX design, busi
 
 ### Who Am I? 
 
-_**A Business Analyst, Product Consultant & Techie**_
+_**A Product Consultant, Business Analyst & Techie**_
 
 * * *
 
@@ -43,6 +43,7 @@ _**A Business Analyst, Product Consultant & Techie**_
 
 ### Certifications and Badges
 
+1. Certified SAFe® 5.1 Product Owner / Product Manager
 1. Certified Associate Business Analyst (CABA)
 1. Certified Scrum Master® (CSM)
 1. Managed Healthcare Professional (MHP)
