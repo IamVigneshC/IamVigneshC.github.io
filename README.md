@@ -43,7 +43,7 @@ _**A Product Consultant, Business Analyst & Techie**_
 
 ### Certifications and Badges
 
-1. Certified SAFe® 5.1 Product Owner / Product Manager
+1. Certified SAFe® 5.1 Product Owner / Product Manager (POPM)
 1. Certified Associate Business Analyst (CABA)
 1. Certified Scrum Master® (CSM)
 1. Managed Healthcare Professional (MHP)
