@@ -4,7 +4,7 @@ _Developers are best at coding, designers specializes system and UX design, busi
 
 ### Who Am I? 
 
-_####A Product Owner/Manager, Consultant, Business Analyst
+_###A Product Owner/Manager, Consultant, Business Analyst
 
 * * *
 
