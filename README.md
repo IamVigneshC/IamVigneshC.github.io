@@ -4,7 +4,7 @@ _Developers are best at coding, designers specializes system and UX design, busi
 
 ### Who Am I? 
 
-_**A Product Consultant, Business Analyst & Techie**_
+_**A Product Owner/Manager, Consultant, Business Analyst **_
 
 * * *
 
@@ -19,18 +19,18 @@ _**A Product Consultant, Business Analyst & Techie**_
 
 ### Core Competencies
 
-| Requirement Management(Analysis,Elicitation,Documentation,Communication)|⭐⭐⭐⭐⭐|          
-| Product Management,Agile(Scrum),SDLC,DevOps                             |⭐⭐⭐⭐⭐|  
-| Data Warehousing,Profiling,Data Visualization and Reporting,SQL querying|⭐⭐⭐⭐|
-| Digital Systems and Technology,Cloud Computing,Automation,IOT(AWS, GCP) |⭐⭐⭐  |                                 
+| Requirement Management (Analysis, Elicitation, Documentation, Communication)                 |⭐⭐⭐⭐⭐|          
+| Product Management, Agile(Scrum), SDLC, DevOps                                               |⭐⭐⭐⭐⭐|  
+| Data Warehousing, Profiling, Data Visualization and Reporting, SQL querying                  |⭐⭐⭐⭐|
+| Digital Systems and Technology, Machine Learning, Cloud Computing, Automation, IOT(AWS, GCP) |⭐⭐⭐  |                                 
 
 
 ### Career Timeline
 
-| 2008 to 2011                         |            2011 to 2014                 |              2014 to Current                 |
-|:-------------------------------------|:----------------------------------------|:---------------------------------------------|
-| Value Source Technologies            | Tata Consultancy Services               | Cognizant Technology Solutions               |
-| Software Engineer/Product Developer  | IT Analyst/Product Owner/Scrum Master   | Consultant/Business Analyst/Product Manager  |
+| 2008 to 2011                         |            2011 to 2014                 |              2014 to Current                   |
+|:-------------------------------------|:----------------------------------------|:-----------------------------------------------|
+| Value Source Technologies            | Tata Consultancy Services               | Cognizant Technology Solutions                 |
+| Software Engineer/Product Developer  | IT Analyst/Product Owner/Scrum Master   | Business Analyst/Product Owner/Product Manager |
 
 
 ### Education
