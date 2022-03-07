@@ -64,9 +64,7 @@ _Developers are best at coding, designers specializes system and UX design, busi
 
 1. Starting With a Point of View - Cognizant Cheers
 1. Always Striving, Never Settling - Cognizant Cheers
-1. Consulting Excellence - CBC Healthcare, 2020 – Cognizant
-1. Consulting Excellence - CBC Healthcare, 2019 – Cognizant
-1. Consulting Excellence - CBC Healthcare, 2018 – Cognizant
+1. Consulting Excellence - CBC Healthcare, 2021, 2020, 2019, 2018 – Cognizant
 1. Best Growth Account - CBC Healthcare, 2020 – Cognizant
 1. Dream Team - CBC Healthcare, 2019 – Cognizant
 1. SPOT award - CBC Healthcare, 2017 – Cognizant
