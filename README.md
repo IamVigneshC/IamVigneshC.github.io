@@ -4,7 +4,7 @@ _Developers are best at coding, designers specializes system and UX design, busi
 
 ### Who Am I? 
 
-**_A Product Owner/Manager, Consultant, Business Analyst_**
+**_A Product Manager/Owner, Consultant, Business Analyst_**
 
 
 * * *
@@ -62,6 +62,7 @@ _Developers are best at coding, designers specializes system and UX design, busi
 
 ### Awards
 
+1. Starting With a Point of View - Cognizant Cheers
 1. Always Striving, Never Settling - Cognizant Cheers
 1. Consulting Excellence - CBC Healthcare, 2020 – Cognizant
 1. Consulting Excellence - CBC Healthcare, 2019 – Cognizant
