@@ -30,7 +30,7 @@ _Developers are best at coding, designers specializes system and UX design, busi
 
 |       2008 to 2011         |       2011 to 2014              |          2014 to 2022               |        2022 to Current          |
 |:---------------------------|:--------------------------------|:------------------------------------|:--------------------------------|
-| Value Source Technologies  | Tata Consultancy Services       | Cognizant Technology Solutions      | Infosys Technologies            |
+| Value Source Technologies  | Tata Consultancy Services       | Cognizant Technology Solutions      | Infosys Limited                 |
 | Application Developer      | Business Analyst/Product Owner. | Senior Consultant/Product Owner     | Lead Consultant/Product Manager |
 
 
