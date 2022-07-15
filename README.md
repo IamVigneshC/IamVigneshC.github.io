@@ -28,7 +28,7 @@ _Developers are best at coding, designers specializes system and UX design, busi
 
 ### Career Timeline
 
-|       2008 to 2011         |       2011 to 2014              |          2014 to 2022               |    .   2022 to Current          |
+|       2008 to 2011         |       2011 to 2014              |          2014 to 2022               |        2022 to Current          |
 |:---------------------------|:--------------------------------|:------------------------------------|:--------------------------------|
 | Value Source Technologies  | Tata Consultancy Services       | Cognizant Technology Solutions      | Infosys Technologies            |
 | Application Developer      | Business Analyst/Product Owner. | Senior Consultant/Product Owner     | Lead Consultant/Product Manager |
