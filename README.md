@@ -22,8 +22,9 @@ _Developers are best at coding, designers specializes system and UX design, busi
 
 | Product Management, Agile (Scrum), SDLC, DevOps                                              |⭐⭐⭐⭐⭐|  
 | Requirement Management (Analysis, Elicitation, Documentation, Communication)                 |⭐⭐⭐⭐⭐|          
-| Data Warehousing, Profiling, Data Visualization and Reporting, SQL querying                  |⭐⭐⭐⭐|
-| Digital Systems and Technology, Machine Learning, Cloud Computing, Automation, IOT(AWS, GCP) |⭐⭐⭐  |                                 
+| Order Management, Inventory, Fulfillment, Account, Post Sales, Data Integration Mapping, Data Warehousing, Profiling, Data Visualization and Reporting, SQL querying                  |⭐⭐⭐⭐|
+| Salesforce Data Integration, MuleSoft, REST API, SOAP API, Data Science, Cloud Computing, (AWS, GCP), IOT
+ |⭐⭐⭐  |                                 
 
 
 ### Career Timeline
@@ -49,6 +50,7 @@ _Developers are best at coding, designers specializes system and UX design, busi
 1. Certified Scrum Master® (CSM)
 1. PRINCE 2® Foundation 
 1. Microsoft Certified Technology Specialist (MCTS 070-178 : MS Project 2010, Managing Projects)
+1. Data Integration Specialist (Superbadge)
 1. Tableau Consumer (Badge)
 1. Managed Healthcare Professional (MHP)
 1. Professional, Health Insurance Advanced Studies (PHIAS) 
