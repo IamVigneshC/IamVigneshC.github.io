@@ -4,7 +4,7 @@ _Developers are best at coding, designers specializes system and UX design, busi
 
 ### Who Am I? 
 
-**_A Product Manager/Owner, Consultant, Business Analyst_**
+**_A Product Owner/Manager, Consultant, Business Analyst_**
 
 
 * * *
@@ -23,7 +23,7 @@ _Developers are best at coding, designers specializes system and UX design, busi
 | Product Management, Agile (Scrum), SDLC, DevOps                                              |⭐⭐⭐⭐⭐|  
 | Requirement Management (Analysis, Elicitation, Documentation, Communication)                 |⭐⭐⭐⭐⭐|          
 | Order Management, Inventory, Fulfillment, Account, Post Sales, Data Integration Mapping, Data Warehousing, Profiling, Data Visualization and Reporting, SQL querying                  |⭐⭐⭐⭐|
-| Salesforce Data Integration, MuleSoft, REST API, SOAP API, Data Science, Cloud Computing, (AWS, GCP), IOT                 |⭐⭐⭐  |                                 
+| Salesforce Data Integration, MuleSoft, REST API, SOAP API, Data Science, Cloud Computing, IOT                 |⭐⭐⭐  |                                 
 
 ### Career Timeline
 
@@ -44,21 +44,22 @@ _Developers are best at coding, designers specializes system and UX design, busi
 ### Certifications and Badges
 
 1. Certified SAFe® 5.1 Product Owner / Product Manager (POPM)
-1. Certified Associate Business Analyst (CABA)
-1. Certified Scrum Master® (CSM)
-1. PRINCE 2® Foundation 
-1. Microsoft Certified Technology Specialist (MCTS 070-178 : MS Project 2010, Managing Projects)
-1. Data Integration Specialist (Superbadge)
-1. Tableau Consumer (Badge)
-1. Managed Healthcare Professional (MHP)
-1. Professional, Health Insurance Advanced Studies (PHIAS) 
-1. Professional, Academy for Healthcare Management (PAHM®)
-1. Blueprint Certified Solution Designer
-1. Blueprint Certified Power User
-1. Six Sigma Certified Green Belt
-1. ITIL Foundation 2011
-1. IBM InfoSphere Master Data Management Server Technical Professional v1
-1. Control Objectives for Information and Related Technology (COBIT® 5 Foundation) 
+2. Certified Associate Business Analyst (CABA)
+3. Certified Scrum Master® (CSM)
+4. MicroSoft Azure Data Fundamentals (DP-900)
+5. PRINCE 2® Foundation 
+6. Microsoft Certified Technology Specialist (MCTS 070-178 : MS Project 2010, Managing Projects)
+7. Data Integration Specialist (Superbadge)
+8. Tableau Consumer (Badge)
+9. Managed Healthcare Professional (MHP)
+10. Professional, Health Insurance Advanced Studies (PHIAS) 
+11. Professional, Academy for Healthcare Management (PAHM®)
+12. Blueprint Certified Solution Designer
+13. Blueprint Certified Power User
+14. Six Sigma Certified Green Belt
+15. ITIL Foundation 2011
+16. IBM InfoSphere Master Data Management Server Technical Professional v1
+17. Control Objectives for Information and Related Technology (COBIT® 5 Foundation) 
 
 ### Awards
 
