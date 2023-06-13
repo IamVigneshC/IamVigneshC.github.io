@@ -23,7 +23,7 @@ _Developers are best at coding, designers specializes system and UX design, busi
 | Product Management, Agile (Scrum), SDLC, DevOps                                              |⭐⭐⭐⭐⭐|  
 | Requirement Management (Analysis, Elicitation, Documentation, Communication)                 |⭐⭐⭐⭐⭐|          
 | Order Management, Inventory, Fulfillment, Account, Post Sales, Data Integration Mapping, Data Warehousing, Profiling, Data Visualization and Reporting, SQL querying                  |⭐⭐⭐⭐|
-| Salesforce Data Integration, MuleSoft, REST API, SOAP API, Data Science, Cloud Computing, IOT                 |⭐⭐⭐  |                                 
+| Salesforce Data Integration, MuleSoft, REST API, SOAP API, Data Science, Cloud Computing                |⭐⭐⭐  |                                 
 
 ### Career Timeline
 
@@ -46,7 +46,7 @@ _Developers are best at coding, designers specializes system and UX design, busi
 1. Certified SAFe® 5.1 Product Owner / Product Manager (POPM)
 2. Certified Associate Business Analyst (CABA)
 3. Certified Scrum Master® (CSM)
-4. MicroSoft Azure Data Fundamentals (DP-900)
+4. Microsoft Certified: Azure Data Fundamentals (DP-900)
 5. PRINCE 2® Foundation 
 6. Microsoft Certified Technology Specialist (MCTS 070-178 : MS Project 2010, Managing Projects)
 7. Data Integration Specialist (Superbadge)
