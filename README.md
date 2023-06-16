@@ -1,6 +1,6 @@
 ## Welcome to my profile 👋
 
-_Developers are best at coding, designers specializes system and UX design, business executives are SMEs in their area, I am 'The Enabler' for these communities who work closely with them cross functionally to create objective and subjective 'Value' out of their job._ 
+_Developers are best at coding, designers specializes system and UX design, business executives are SMEs in their area, I am 'The Enabler' for these communities who cross functionally work with them and create objective and subjective 'Value'._ 
 
 ### Who Am I? 
 
