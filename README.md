@@ -4,7 +4,7 @@ _Developers are best at coding, designers specializes system and UX design, busi
 
 ### Who Am I? 
 
-**_A Product Owner/Manager, Consultant, Business Analyst_**
+**_A Product Management Consultant_**
 
 
 * * *
@@ -44,22 +44,24 @@ _Developers are best at coding, designers specializes system and UX design, busi
 ### Certifications and Badges
 
 1. Certified SAFe® 5.1 Product Owner / Product Manager (POPM)
-2. Certified Associate Business Analyst (CABA)
-3. Certified Scrum Master® (CSM)
-4. Microsoft Certified: Azure Data Fundamentals (DP-900)
-5. PRINCE 2® Foundation 
-6. Microsoft Certified Technology Specialist (MCTS 070-178 : MS Project 2010, Managing Projects)
-7. Data Integration Specialist (Superbadge)
-8. Tableau Consumer (Badge)
-9. Managed Healthcare Professional (MHP)
-10. Professional, Health Insurance Advanced Studies (PHIAS) 
-11. Professional, Academy for Healthcare Management (PAHM®)
-12. Blueprint Certified Solution Designer
-13. Blueprint Certified Power User
-14. Six Sigma Certified Green Belt
-15. ITIL Foundation 2011
-16. IBM InfoSphere Master Data Management Server Technical Professional v1
-17. Control Objectives for Information and Related Technology (COBIT® 5 Foundation) 
+2. Aha! Product Management Professional Certificate
+3. Certified Associate Business Analyst (CABA)
+4. Certified Scrum Master® (CSM)
+5. Microsoft Certified: Azure Data Fundamentals (DP-900)
+6. PRINCE 2® Foundation 
+7. Microsoft Certified Technology Specialist (MCTS 070-178 : MS Project 2010, Managing Projects)
+8. Data Integration Specialist (Superbadge)
+9. AI for Product Management (Badge)
+10. Tableau Consumer (Badge)
+11. Managed Healthcare Professional (MHP)
+12. Professional, Health Insurance Advanced Studies (PHIAS) 
+13. Professional, Academy for Healthcare Management (PAHM®)
+14. Blueprint Certified Solution Designer
+15. Blueprint Certified Power User
+16. Six Sigma Certified Green Belt
+17. ITIL Foundation 2011
+18. IBM InfoSphere Master Data Management Server Technical Professional v1
+19. Control Objectives for Information and Related Technology (COBIT® 5 Foundation) 
 
 ### Awards
 
