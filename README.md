@@ -45,23 +45,25 @@ _Developers are best at coding, designers specializes system and UX design, busi
 
 1. Certified SAFe® 5.1 Product Owner / Product Manager (POPM)
 2. Aha! Product Management Professional Certificate
-3. Certified Associate Business Analyst (CABA)
-4. Certified Scrum Master® (CSM)
+3. Google Cloud Digital Leader
+4. Google Generative AI Leader
 5. Microsoft Certified: Azure Data Fundamentals (DP-900)
-6. PRINCE 2® Foundation 
-7. Microsoft Certified Technology Specialist (MCTS 070-178 : MS Project 2010, Managing Projects)
-8. Data Integration Specialist (Superbadge)
-9. AI for Product Management (Badge)
-10. Tableau Consumer (Badge)
-11. Managed Healthcare Professional (MHP)
-12. Professional, Health Insurance Advanced Studies (PHIAS) 
-13. Professional, Academy for Healthcare Management (PAHM®)
-14. Blueprint Certified Solution Designer
-15. Blueprint Certified Power User
-16. Six Sigma Certified Green Belt
-17. ITIL Foundation 2011
-18. IBM InfoSphere Master Data Management Server Technical Professional v1
-19. Control Objectives for Information and Related Technology (COBIT® 5 Foundation) 
+6. Certified Associate Business Analyst (CABA)
+7. Certified Scrum Master® (CSM)
+8. PRINCE 2® Foundation 
+9. Microsoft Certified Technology Specialist (MCTS 070-178 : MS Project 2010, Managing Projects)
+10. Data Integration Specialist (Superbadge)
+11. AI for Product Management (Badge)
+12. Tableau Consumer (Badge)
+13. Managed Healthcare Professional (MHP)
+14. Professional, Health Insurance Advanced Studies (PHIAS) 
+15. Professional, Academy for Healthcare Management (PAHM®)
+16. Blueprint Certified Solution Designer
+17. Blueprint Certified Power User
+18. Six Sigma Certified Green Belt
+19. ITIL Foundation 2011
+20. IBM InfoSphere Master Data Management Server Technical Professional v1
+21. Control Objectives for Information and Related Technology (COBIT® 5 Foundation) 
 
 ### Awards
 
