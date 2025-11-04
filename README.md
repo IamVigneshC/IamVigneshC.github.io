@@ -20,10 +20,10 @@ _Developers are best at coding, designers specializes system and UX design, busi
 
 ### Core Competencies
 
-| Product Management, Agile (Scrum), SDLC, DevOps                                              |⭐⭐⭐⭐⭐|  
+| Product Management, Project Management, Agile (Scrum), SDLC, DevOps                                              |⭐⭐⭐⭐⭐|  
 | Requirement Management (Analysis, Elicitation, Documentation, Communication)                 |⭐⭐⭐⭐⭐|          
-| Order Management, Inventory, Fulfillment, Account, Post Sales, Data Integration Mapping, Data Warehousing, Profiling, Data Visualization and Reporting, SQL querying                  |⭐⭐⭐⭐|
-| Salesforce Data Integration, MuleSoft, REST API, SOAP API, Data Science, Cloud Computing                |⭐⭐⭐  |                                 
+| AI/ML, LLM, GenAI, Data Integration Mapping, Data Warehousing, Data Visualization and Reporting, SQL querying                  |⭐⭐⭐⭐|
+| Salesforce Data Integration, MuleSoft, REST API, SOAP API, Cloud Computing                |⭐⭐⭐  |                                 
 
 ### Career Timeline
 
