@@ -22,8 +22,8 @@ _Developers are best at coding, designers specializes system and UX design, busi
 
 | Product Management, Project Management, Agile (Scrum), SDLC, DevOps                                              |⭐⭐⭐⭐⭐|  
 | Requirement Management (Analysis, Elicitation, Documentation, Communication)                 |⭐⭐⭐⭐⭐|          
-| AI/ML, LLM, GenAI, Data Integration Mapping, Data Warehousing, Data Visualization and Reporting, SQL querying                  |⭐⭐⭐⭐|
-| Salesforce Data Integration, MuleSoft, REST API, SOAP API, Cloud Computing                |⭐⭐⭐  |                                 
+| AI/ML, LLM, GenAI, Data Integration, Data Warehousing, Data Visualization and Reporting, SQL querying                  |⭐⭐⭐⭐|
+| ETL, CRM, Salesforce, MuleSoft, REST API, Cloud Computing                |⭐⭐⭐  |                                 
 
 ### Career Timeline
 
